@@ -1,4 +1,4 @@
-# Emergency Playbook
+# 비상 대응 매뉴얼
 
 \_Starter Template
 
